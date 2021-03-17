@@ -1,3 +1,9 @@
+// sass --watch --no-source-map scss:css
+
+.sized {
+    height: 100px;
+}
+
 div {
     background-color: red;
     a {
@@ -11,5 +17,8 @@ div {
 
 button {
     height: 50px;
-    width: 75%;
+    width: 74%;
+}
+#h1 {
+    color: yellow;
 }

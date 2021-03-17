@@ -1,0 +1,11 @@
+/* Import only the necessary files */
+@import "../boostrap-4.6/scss/functions";
+@import "../boostrap-4.6/scss/variables";
+
+/* Begin Customization */
+$theme-colors : (
+    "primary": violet,
+);
+/* End Customization */
+
+@import "../boostrap-4.6/scss/bootstrap.scss";
